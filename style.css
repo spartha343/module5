@@ -74,3 +74,6 @@ footer{
     margin: 0%;
     padding: 20px;
 }
+footer h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
